@@ -65,9 +65,9 @@
    Приложение  на чистом JS [YoutubeClient](https://yalatan.github.io/YoutubeClient).
    Email- рассылка [email](https://yalatan.github.io/email)
 
-  #### Проекты в продакшене
+   ### Проекты в продакшене
 
-      * 08.2019 - 09.2019
+  * 08.2019 - 09.2019
     Сайт [Консульства Ливанской Республики в Республике Беларусь](https://liban-consulate.by/).
     Подобные сайты: [Сайт медицинской организации](https://yalatan.github.io/medcare), 
     [Сайт туристической организации](https://yalatan.github.io/moregory).
