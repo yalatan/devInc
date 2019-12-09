@@ -36,7 +36,7 @@
 
 * 03.2019 - 04.2019, 09.2019
 ###### Он-лайн курсы:
-[htmlacademy](https://htmlacademy.ru/profile/id1013059/achievements
+[htmlacademy](https://htmlacademy.ru/profile/id1013059/achievements),
 [codecademy](https://www.codecademy.com/users/Ya_latan/achievements)
 
 
